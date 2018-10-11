@@ -9,7 +9,8 @@
 **About the Agent:**
 	To solve this task, I used a "basic" version of DQN. I then implemented other extensions of DQN like Double DQN and 
 	added Prioritized Experience Replay to test their influence. I couldn't notice to much of a difference, except for 
-	a much longer computation time. I think that is because the task is easy enough.
+	a much longer computation time. I think that is because the task is easy enough.	
+	I started with the DQN-Agent from the previous Q-Learning lesson and it work pretty well with the given settings. So, I decided 	instead of tweaking the parameters to implement other variations from DQN and watch the difference in performance without 		changing the parameters. I focused on two results: The _maximum Average Score_ (last 100) after enough Episodes of training & The _time it took to reach the threshold of 13 points_ in the Average Score. I tested each Agent just a few times and noticed variations in the end results. I wrote down the average of 2-3 runs. If I'd really needed to compare the end results I'd probably run the agents more often.
 	
 
 **DQN Hyperparameters:**
