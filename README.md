@@ -10,7 +10,7 @@ _The task is to solve the Unity [Banana Collector](https://github.com/Unity-Tech
 
 
 ### Project Overview
-In this project, an agent will be trained to navigate (and collect bananas!) in a large, square world.
+In this project, an agent will be trained to navigate (and collect :banana::banana:) in a large, square world.
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
