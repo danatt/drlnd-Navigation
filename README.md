@@ -37,6 +37,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the file in the repository folder, and unzip (or decompress) the file. 
 
+3. Open the `Navigation.ipynb` notebook and follow instructions there.
+
 
 ### Dependencies
 For more information on how to run the environment please read the Dependencies section in this [repo](https://github.com/udacity/deep-reinforcement-learning#dependencies).
