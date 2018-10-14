@@ -5,6 +5,7 @@
 This is a project from the **Deep Reinforcement Learning Nanodegree** @Udacity. 
 
 _The task is to solve the Unity [Banana Collector](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector) Environment with a DQN-Agent._
+The you can watch the final result by using the `watch_a_trained_agent.ipynb`.
 
 ![](/pictures/banana.JPG)
 
